@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-27T19:31:51Z" name="Surefire suite" finished-at="2024-01-27T19:32:51Z" duration-ms="60319">
+    <groups>
+      <group name="addtocartproduct">
+        <method signature="class6extent.addtocartproduct()[pri:1, instance:first.class6extent@62fdb4a6]" name="addtocartproduct" class="first.class6extent"/>
+      </group> <!-- addtocartproduct -->
+      <group name="wishlist">
+        <method signature="class6extent.wishlist()[pri:2, instance:first.class6extent@62fdb4a6]" name="wishlist" class="first.class6extent"/>
+      </group> <!-- wishlist -->
+    </groups>
+    <test started-at="2024-01-27T19:31:51Z" name="Surefire test" finished-at="2024-01-27T19:32:51Z" duration-ms="60319">
+      <class name="first.class6extent">
+        <test-method is-config="true" signature="configReport()[pri:0, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:01:51Z" name="configReport" finished-at="2024-01-28T01:01:51Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:01:51Z" name="setup" finished-at="2024-01-28T01:01:55Z" duration-ms="4489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addtocartproduct()[pri:1, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:01:55Z" name="addtocartproduct" finished-at="2024-01-28T01:02:24Z" duration-ms="28792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartproduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:02:24Z" name="teardown" finished-at="2024-01-28T01:02:25Z" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:02:25Z" name="setup" finished-at="2024-01-28T01:02:27Z" duration-ms="2606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="wishlist()[pri:2, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:02:27Z" name="wishlist" finished-at="2024-01-28T01:02:51Z" duration-ms="23359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:02:51Z" name="teardown" finished-at="2024-01-28T01:02:51Z" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="last()[pri:0, instance:first.class6extent@62fdb4a6]" started-at="2024-01-28T01:02:51Z" name="last" finished-at="2024-01-28T01:02:51Z" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- first.class6extent -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
